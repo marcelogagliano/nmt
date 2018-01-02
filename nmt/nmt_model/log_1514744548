@@ -1,0 +1,4 @@
+# log_file=./nmt/nmt_model/log_1514744548
+# Start step 0, lr 1, Sun Dec 31 16:22:31 2017
+  global step 100 lr 1 step-time 0.15s wps 0.06K ppl 3.39 gN 3.00 bleu 0.00
+  global step 200 lr 1 step-time 0.14s wps 0.07K ppl 1.00 gN 0.01 bleu 0.00
